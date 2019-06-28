@@ -1,0 +1,46 @@
+body {
+	background-color: #333;
+	color: #fff;
+}
+
+.title_page {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.title_page_cad {
+	text-align: center;
+	margin-top: 90px;
+	margin-bottom: 80px;
+}
+
+#btn-add {
+	margin-top: 100px;
+	margin-bottom: 10px;
+	width: 160px;
+}
+
+#btn-back {
+	width: 400px;	
+}
+
+#btn-save {
+	width: 100%;
+}
+
+#btn-save, #btn-back {
+	height: 47px;
+	margin-top: 30px;
+	margin-left: 2px;
+	margin-right: 10px;
+}
+
+.form-add-edit{
+	margin-top: 30px;
+}
+
+.alert-style {
+	margin-top: -455px;
+	text-align: center;
+}
+
